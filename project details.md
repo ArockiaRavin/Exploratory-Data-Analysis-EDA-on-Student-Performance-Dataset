@@ -177,14 +177,4 @@ Exploratory Data Analysis is an essential step in extracting meaningful informat
 
 ---
 
-# Author
 
-Ravin Arockia
-
-Data Science Intern
-
----
-
-# Internship Project
-
-Submitted as part of the Data Science Internship Program to demonstrate practical knowledge in data analysis, visualization, statistical reporting, and exploratory data analysis methodologies.
