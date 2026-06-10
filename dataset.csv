@@ -1,0 +1,11 @@
+Student_ID,Age,Gender,Department,Attendance,Study_Hours,Marks
+101,20,Male,CSE,92,4,85
+102,21,Female,IT,88,3,78
+103,20,Male,CSE,95,5,90
+104,22,Female,ECE,85,2,75
+105,21,Male,EEE,80,2,72
+106,20,Female,IT,93,4,88
+107,22,Male,CSE,90,4,84
+108,21,Female,ECE,87,3,79
+109,20,Male,EEE,82,2,70
+110,22,Female,IT,96,5,91
